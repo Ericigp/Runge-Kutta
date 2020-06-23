@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592942418 source:c:\users\eric\documents\compu\runge kuta\runge kuta.cpp
+	"Runge kuta.h"
+
+1592940347 c:\users\eric\documents\compu\runge kuta\runge kuta.h
+	<fstream>
+	<cmath>
+
+1592941011 source:c:\users\eric\documents\compu\runge kuta\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"Runge kuta.h"
+
